@@ -21,7 +21,7 @@ This project analyzes 3 million Instagram reviews from the Google Play Store to 
 - Used stemming and removed stopwords
 - Converted text into TF-IDF features (bigrams)
 
-## ⚙️ Model
+## ⚙️ Model Info
 - Trained a `Logistic Regression` model
 - Achieved:
   - Training Accuracy: `61%`
