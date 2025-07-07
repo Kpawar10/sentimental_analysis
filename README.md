@@ -24,8 +24,8 @@ This project analyzes 3 million Instagram reviews from the Google Play Store to 
 ## ⚙️ Model
 - Trained a `Logistic Regression` model
 - Achieved:
-  - Training Accuracy: `XX%`
-  - Test Accuracy: `XX%`
+  - Training Accuracy: `61%`
+  - Test Accuracy: `60%`
   - Baseline Accuracy: ~33%
 
 ## 📁 Folder Structure
@@ -33,7 +33,6 @@ This project analyzes 3 million Instagram reviews from the Google Play Store to 
 - `models/`: Saved `.sav` model file
 - `data/`: Sample CSV or link to full dataset
 - `notebook/`: Optional Jupyter Notebook version
-- `visuals/`: Plots such as confusion matrix (optional)
 
 ## ▶️ How to Run
 ```bash
